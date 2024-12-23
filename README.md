@@ -1,4 +1,3 @@
-# BHAVYAJAlN971
 👋 Hi there! I’m Bhavya Jain
 🎓 B.Tech in Computer Science | Bennett University
 💡 Passionate about Cybersecurity and Data Science
@@ -16,6 +15,10 @@ Databases: SQL, NoSQL, MongoDB
 
 Certified Ethical Hacker (CEH)
 Experienced in AI/ML Projects and leading team initiatives
+📫 Contact Me
+
+Email: bhavyajain7900@gmail.com
+LinkedIn: [linkedin.com/in/bhavyajain](https://www.linkedin.com/in/bhavya-jain-b90960245/)
+GitHub: [github.com/bhavyajain](https://github.com/BHAVYAJAIN971)
 💼 Open to opportunities in Data Science, Machine Learning, and Cybersecurity.
 Let’s connect and collaborate!
-
